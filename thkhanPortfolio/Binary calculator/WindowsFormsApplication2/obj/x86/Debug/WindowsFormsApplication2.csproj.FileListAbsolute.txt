@@ -1,0 +1,27 @@
+C:\BOLOD amrikan\khan\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\BOLOD amrikan\khan\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\BOLOD amrikan\khan\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\BOLOD amrikan\khan\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\BOLOD amrikan\khan\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\BOLOD amrikan\khan\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\BOLOD amrikan\khan\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\BOLOD amrikan\khan\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\BOLOD amrikan\khan\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+\\patty\work\khan\c#\thkhanPortfolio\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+\\patty\work\khan\c#\thkhanPortfolio\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+\\patty\work\khan\c#\thkhanPortfolio\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+\\patty\work\khan\c#\thkhanPortfolio\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+\\patty\work\khan\c#\thkhanPortfolio\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+\\patty\work\khan\c#\thkhanPortfolio\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+\\patty\work\khan\c#\thkhanPortfolio\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+\\patty\work\khan\c#\thkhanPortfolio\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+\\patty\work\khan\c#\thkhanPortfolio\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\thkhan\Desktop\CPSC\thkhanPortfolio\Binary calculator\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\thkhan\Desktop\CPSC\thkhanPortfolio\Binary calculator\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\thkhan\Desktop\CPSC\thkhanPortfolio\Binary calculator\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\thkhan\Desktop\CPSC\thkhanPortfolio\Binary calculator\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\thkhan\Desktop\CPSC\thkhanPortfolio\Binary calculator\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\thkhan\Desktop\CPSC\thkhanPortfolio\Binary calculator\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\thkhan\Desktop\CPSC\thkhanPortfolio\Binary calculator\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\thkhan\Desktop\CPSC\thkhanPortfolio\Binary calculator\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\thkhan\Desktop\CPSC\thkhanPortfolio\Binary calculator\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
