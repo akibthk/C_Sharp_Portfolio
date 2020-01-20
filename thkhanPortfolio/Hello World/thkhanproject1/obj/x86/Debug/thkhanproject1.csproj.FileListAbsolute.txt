@@ -1,0 +1,33 @@
+C:\tempWorkspace\Visual Studio\thkhanproject1\thkhanproject1\bin\Debug\thkhanproject1.exe
+C:\tempWorkspace\Visual Studio\thkhanproject1\thkhanproject1\bin\Debug\thkhanproject1.pdb
+C:\tempWorkspace\Visual Studio\thkhanproject1\thkhanproject1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\tempWorkspace\Visual Studio\thkhanproject1\thkhanproject1\obj\x86\Debug\thkhanproject1.Form1.resources
+C:\tempWorkspace\Visual Studio\thkhanproject1\thkhanproject1\obj\x86\Debug\thkhanproject1.Properties.Resources.resources
+C:\tempWorkspace\Visual Studio\thkhanproject1\thkhanproject1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\tempWorkspace\Visual Studio\thkhanproject1\thkhanproject1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\tempWorkspace\Visual Studio\thkhanproject1\thkhanproject1\obj\x86\Debug\thkhanproject1.exe
+C:\tempWorkspace\Visual Studio\thkhanproject1\thkhanproject1\obj\x86\Debug\thkhanproject1.pdb
+H:\thkhanproject1\thkhanproject1\obj\x86\Debug\thkhanproject1.exe
+H:\thkhanproject1\thkhanproject1\obj\x86\Debug\thkhanproject1.pdb
+H:\thkhanproject1\thkhanproject1\bin\Debug\thkhanproject1.exe
+H:\thkhanproject1\thkhanproject1\bin\Debug\thkhanproject1.pdb
+H:\thkhanproject1\thkhanproject1\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\thkhanproject1\thkhanproject1\obj\x86\Debug\thkhanproject1.Form1.resources
+H:\thkhanproject1\thkhanproject1\obj\x86\Debug\thkhanproject1.Properties.Resources.resources
+H:\thkhanproject1\thkhanproject1\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\thkhanproject1\thkhanproject1\obj\x86\Debug\GenerateResource.write.1.tlog
+\\patty.anderson.edu\work\khan\c#\thkhanproject1\thkhanproject1\obj\x86\Debug\thkhanproject1.exe
+\\patty.anderson.edu\work\khan\c#\thkhanproject1\thkhanproject1\obj\x86\Debug\thkhanproject1.pdb
+\\patty\work\khan\c#\thkhanproject1\thkhanproject1\obj\x86\Debug\thkhanproject1.exe
+\\patty\work\khan\c#\thkhanproject1\thkhanproject1\obj\x86\Debug\thkhanproject1.pdb
+\\patty\work\khan\c#\thkhanproject1\thkhanproject1\bin\Debug\thkhanproject1.exe
+\\patty\work\khan\c#\thkhanproject1\thkhanproject1\bin\Debug\thkhanproject1.pdb
+\\patty\work\khan\c#\thkhanproject1\thkhanproject1\obj\x86\Debug\ResolveAssemblyReference.cache
+\\patty\work\khan\c#\thkhanproject1\thkhanproject1\obj\x86\Debug\thkhanproject1.Form1.resources
+\\patty\work\khan\c#\thkhanproject1\thkhanproject1\obj\x86\Debug\thkhanproject1.Properties.Resources.resources
+\\patty\work\khan\c#\thkhanproject1\thkhanproject1\obj\x86\Debug\GenerateResource.read.1.tlog
+\\patty\work\khan\c#\thkhanproject1\thkhanproject1\obj\x86\Debug\GenerateResource.write.1.tlog
+\\patty\work\khan\c#\SSSSSSSSSSSSSSSSSSSSSS\Hello World\thkhanproject1\obj\x86\Debug\thkhanproject1.exe
+\\patty\work\khan\c#\SSSSSSSSSSSSSSSSSSSSSS\Hello World\thkhanproject1\obj\x86\Debug\thkhanproject1.pdb
+C:\Users\thkhan\Desktop\CPSC\thkhanPortfolio\Hello World\thkhanproject1\obj\x86\Debug\thkhanproject1.exe
+C:\Users\thkhan\Desktop\CPSC\thkhanPortfolio\Hello World\thkhanproject1\obj\x86\Debug\thkhanproject1.pdb

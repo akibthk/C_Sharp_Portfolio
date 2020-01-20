@@ -1,0 +1,71 @@
+C:\tempWorkspace\Visual Studio\thkhanPortfolio\thkhanPortfolio\bin\Debug\thkhanPortfolio.exe
+C:\tempWorkspace\Visual Studio\thkhanPortfolio\thkhanPortfolio\bin\Debug\thkhanPortfolio.pdb
+C:\tempWorkspace\Visual Studio\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\tempWorkspace\Visual Studio\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form1.resources
+C:\tempWorkspace\Visual Studio\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form2.resources
+C:\tempWorkspace\Visual Studio\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Properties.Resources.resources
+C:\tempWorkspace\Visual Studio\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\tempWorkspace\Visual Studio\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\tempWorkspace\Visual Studio\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.exe
+C:\tempWorkspace\Visual Studio\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.pdb
+C:\tempWorkspace\Visual Studio\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form3.resources
+H:\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.exe
+H:\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.pdb
+H:\thkhanPortfolio\thkhanPortfolio\bin\Debug\thkhanPortfolio.exe
+H:\thkhanPortfolio\thkhanPortfolio\bin\Debug\thkhanPortfolio.pdb
+H:\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form1.resources
+H:\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form2.resources
+H:\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form3.resources
+H:\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form4.resources
+H:\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Properties.Resources.resources
+H:\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form5.resources
+H:\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form6.resources
+T:\Golder\khan\c#\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.exe
+T:\Golder\khan\c#\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.pdb
+T:\Golder\khan\c#\thkhanPortfolio\thkhanPortfolio\bin\Debug\thkhanPortfolio.exe
+T:\Golder\khan\c#\thkhanPortfolio\thkhanPortfolio\bin\Debug\thkhanPortfolio.pdb
+T:\Golder\khan\c#\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\ResolveAssemblyReference.cache
+T:\Golder\khan\c#\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form1.resources
+T:\Golder\khan\c#\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form2.resources
+T:\Golder\khan\c#\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form3.resources
+T:\Golder\khan\c#\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form4.resources
+T:\Golder\khan\c#\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form5.resources
+T:\Golder\khan\c#\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form6.resources
+T:\Golder\khan\c#\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Properties.Resources.resources
+T:\Golder\khan\c#\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\GenerateResource.read.1.tlog
+T:\Golder\khan\c#\thkhanPortfolio\thkhanPortfolio\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\thkhan\Desktop\CPSC\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.exe
+C:\Users\thkhan\Desktop\CPSC\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.pdb
+C:\Users\thkhan\Desktop\CPSC\thkhanPortfolio\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\thkhan\Desktop\CPSC\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form1.resources
+C:\Users\thkhan\Desktop\CPSC\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form2.resources
+C:\Users\thkhan\Desktop\CPSC\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form3.resources
+C:\Users\thkhan\Desktop\CPSC\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form4.resources
+C:\Users\thkhan\Desktop\CPSC\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form5.resources
+C:\Users\thkhan\Desktop\CPSC\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form6.resources
+C:\Users\thkhan\Desktop\CPSC\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Properties.Resources.resources
+C:\Users\thkhan\Desktop\CPSC\thkhanPortfolio\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\thkhan\Desktop\CPSC\thkhanPortfolio\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\thkhan\Desktop\CPSC\thkhanPortfolio\bin\Debug\thkhanPortfolio.exe
+C:\Users\thkhan\Desktop\CPSC\thkhanPortfolio\bin\Debug\thkhanPortfolio.pdb
+C:\Users\thkhan\Desktop\CPSC\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form7.resources
+C:\Users\thkhan\Desktop\CPSC\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form8.resources
+C:\Users\thkhan\Desktop\CPSC\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form9.resources
+T:\Golder\CPSC\Final\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.exe
+T:\Golder\CPSC\Final\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.pdb
+T:\Golder\CPSC\Final\thkhanPortfolio\bin\Debug\thkhanPortfolio.exe
+T:\Golder\CPSC\Final\thkhanPortfolio\bin\Debug\thkhanPortfolio.pdb
+T:\Golder\CPSC\Final\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form1.resources
+T:\Golder\CPSC\Final\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form2.resources
+T:\Golder\CPSC\Final\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form3.resources
+T:\Golder\CPSC\Final\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form4.resources
+T:\Golder\CPSC\Final\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form5.resources
+T:\Golder\CPSC\Final\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form6.resources
+T:\Golder\CPSC\Final\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form7.resources
+T:\Golder\CPSC\Final\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form8.resources
+T:\Golder\CPSC\Final\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Form9.resources
+T:\Golder\CPSC\Final\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.Properties.Resources.resources
+T:\Golder\CPSC\Final\thkhanPortfolio\obj\x86\Debug\thkhanPortfolio.csproj.GenerateResource.Cache
